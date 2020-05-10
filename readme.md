@@ -14,9 +14,13 @@ I believe in servant oriented leadership, helping others find solutions to probl
 
 ## Continuous feedback
 
+
 ## The work/home balance
 
 ## We are problem-solvers; not code monkeys
+We are paid to solve problems, not just write code.  I encourage people to think creatively about how to best solve the problem at hand.  There are times where the best option is perhaps a 3rd party tool, a contract change, or manually managed process. 
+
+I encourage people to think creatively about how to best solve the problem at hand. Often the best option is to not write code at all - perhaps a contract change, customer conversation, or 3rd party tool might be a cheaper long-term solution. 
 
 ## Strong opinions, weakly held
 
