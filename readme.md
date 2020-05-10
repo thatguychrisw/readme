@@ -5,7 +5,7 @@ An intro to how I approach managing teams, my values, and what to expect when wo
 
 ## My values
 1. **People first** – everyone matters and we should foster an inclusive, caring culture that regards people's well-being and success as a priority.
-2. **Well-being matters** — maintain an emotionally safe work environment, free from humiliation, aggression, or manipulation.
+2. **Psychological safety** — maintain an emotionally safe work environment, where team members feel accepted and respected.
 3. **Invest in yourself** — always be curious, ask questions, and share what you learn with others.
 4. **Proactively communicate** — this builds trust and relationships by learning and understanding the needs of others.
 
