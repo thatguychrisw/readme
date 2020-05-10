@@ -5,11 +5,12 @@ An intro to how I approach managing teams, my values, and what to expect when wo
 
 ## My values
 1. **People first** – everyone matters and we should foster an inclusive, caring culture that regards people's well-being and success as a priority.
-2. **Psychological safety** — maintain an emotionally safe work environment, where team members feel accepted and respected.
+2. **Psychological safety** — maintain an emotionally safe work environment  where team members feel accepted and respected.
 3. **Invest in yourself** — always be curious, ask questions, and share what you learn with others.
 4. **Proactively communicate** — this builds trust and relationships by learning and understanding the needs of others.
 
-## How I define my job
+## How I view my job
+I believe in servant oriented leadership, helping others find solutions to problems by leveraging their strengths. I am measured by the outcomes of my team, therefore it is in my best interest to make sure my teams have the necessary context in order to succeed. I value honest, open communication, and promise to ensure a safe space where each team member feels accepted and respected.
 
 ## Continuous feedback
 
