@@ -24,14 +24,14 @@ Boundaries are important.  I expect you to respond to emails and Slack messages 
 
 If you're sick, please stay home and focus on getting better.  It's better for everyone 😄
 
-## We are problem-solvers; not code monkeys
+## We are problem-solvers; not code monkeys 🙈
 We are paid to solve problems, not just write code.  I encourage people to think creatively about how to best solve the problem at hand.  There are times when the best option is perhaps a 3rd party tool, a contract change, or a manually managed process. 
 
 ## Strong opinions, weakly held
 I prefer to surround myself with people who will disagree with me, who will surface disproving evidence and challenge my thinking.
 
 ## One owner (DRI)
-I’m a huge believer in the “Directly Responsible Individual” (DRI) model. Every bug, task, project, or investigation should have exactly one person appointed to see that thing through. 
+I’m a huge believer in the [Directly Responsible Individual (DRI) model](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). Every bug, task, project, or investigation should have exactly one person appointed to see that thing through. 
 
 I expect an owner to:
 * Know the current status
@@ -40,4 +40,6 @@ I expect an owner to:
 * Raise the flag when there are blockers or big risks
 
 ## Team first
-We either all succeed, or we don't.  I expect you to always focus on the team's highest priority, not your own.  Always be looking for opportunities to help your teammates and ensure we all cross the finish-line together.
+We either all succeed, or we don't.  I expect you to always focus on the team's highest priority, not your own.  Always be looking for opportunities to help your teammates and ensure we all cross the finish-line together.  
+
+When we are making decisions, optimizing for the team should take precedence over other areas such as performance.
