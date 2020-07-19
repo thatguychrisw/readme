@@ -25,7 +25,7 @@ Boundaries are important. I expect you to respond to emails and Slack messages d
 
 If you're sick, please stay home and focus on getting better. It's better for everyone 😄
 
-## We are problem-solvers; not code monkeys 🙈
+## We are problem solvers; not code monkeys 🙈
 
 We are paid to solve problems, not just write code. I encourage people to think creatively about how to best solve the problem at hand. There are times when the best option is perhaps a 3rd party tool, a contract change, or a manually managed process.
 
