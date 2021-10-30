@@ -3,6 +3,9 @@
 ## What this is
 An intro to how I approach managing teams, my values, and what to expect when working with me. It's a starting point to help us build a relationship more quickly.
 
+## This is a new section used to create a PR
+Hello
+
 ## My values
 1. **People first** – everyone matters, and we should foster an inclusive, caring culture that regards people's well-being and success as a priority.
 2. **Psychological safety** — maintain an emotionally safe work environment where team members feel accepted and respected.
