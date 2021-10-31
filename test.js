@@ -1,1 +1,1 @@
-const newCode = ""
+const newCode = "test"
