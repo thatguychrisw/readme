@@ -5,15 +5,7 @@ An intro to how I approach managing teams, my values, and what to expect when wo
 
 ## This is a new section used to create a PR
 Hello, twice 3 aaafeadwaeafeafeafeafeafea YOYO
-TOTO 
-feaf
-feafea
-feafeafe
-feafea
-feafea
-feafea
-feafeaf
-eafea
+
 
 
 ## My values
